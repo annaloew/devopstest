@@ -1,5 +1,5 @@
 # The DevOps Test
-These are a couple of potential questions a you and your company could answer to do some expectation management and see where you could improve. It is inspired by the “Joel Test” and additionally covers typical DevOps topics.
+These are a couple of potential questions which you and your company could answer to do some expectation management and see where you could improve. It is inspired by the [Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html) and additionally covers typical DevOps topics.
 
 ## How do you control your source?
 * 0: FTP
