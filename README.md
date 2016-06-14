@@ -78,6 +78,13 @@ These are a couple of potential questions a you and your company could answer to
 * 3: More or less. We have a few historical leftovers. 
 * 5: Yes sure.
 
+## What development environment do you use?
+* 0: local, manually set up stack
+* 1: manually set up development machine where everyone is working on with rsync/ftp deployment
+* 3: self-provisioned Vagrant machines to develop locally
+* 4: self-provisioned Docker containers where I work on locally
+* 5: Pre-defined development containers that are available
+
 ## Our individual personal feedback cycles are 
 * 0: Not existent 
 * 1: Annual 
