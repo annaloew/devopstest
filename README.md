@@ -2,12 +2,12 @@
 These are a couple of potential questions which you and your company could answer to do some expectation management and see where you could improve. It is inspired by the [Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html) and additionally covers typical DevOps topics.
 
 ## How do you control your source?
-* 0: FTP
+* 0: FTP (no source control at all)
 * 1: CVS
 * 2: SVN
 * 3: Git / Mecurial
-* 4: Git including basic branching model
-* 5: Advanced branching model including PRs
+* 4: Git including basic branching model (See [Git basic branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) and [A successful Git branching model / GitFlow](http://nvie.com/posts/a-successful-git-branching-model/))
+* 5: Advanced branching model including PRs (See [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/) and [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request))
 
 ## How fast is a change deployed into production?
 * 0: Within months
